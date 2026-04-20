@@ -4,7 +4,7 @@ Nome        : Mateus Santos Lucas
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/2758
 Data        : 14/04/2026
-Objetivo    : Ler e imprimir valores de precisão simples e dupla com diferentes casas decimais
+Objetivo    : Ler e imprimir valores de precisão simples e dupla com diferentes casas decimais.
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 
