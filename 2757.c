@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Mateus Santos Lucas
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2757
+Data        : 14/04/2026
+Objetivo    : Ler e imprimir valores com diferentes condições
+Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
