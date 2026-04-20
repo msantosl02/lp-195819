@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Mateus Santos Lucas
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080a
+Data        : DD/MM/2026
+Objetivo    : Ler dois valores inteiros e mostrar a soma.
+Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 int main() {
     int maior , i , n , ps;
