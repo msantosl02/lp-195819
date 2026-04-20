@@ -3,8 +3,8 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Mateus Santos Lucas
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1071
-Data        : 17/04/2026
-Objetivo    : Ler dois valores inteiros e mostrar a soma.
+Data        : 19/04/2026
+Objetivo    : Ler 2 valores inteiros X e Y. A seguir, calcular e mostrar a soma dos números impares entre eles.
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
