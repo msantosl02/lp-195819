@@ -3,8 +3,8 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Mateus Santos Lucas
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1080a
-Data        : DD/MM/2026
-Objetivo    : Ler dois valores inteiros e mostrar a soma.
+Data        : 17/04/2026
+Objetivo    : Leia 100 valores inteiros. Apresente então o maior valor lido e a posição dentre os 100 valores lidos.
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
