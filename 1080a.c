@@ -8,7 +8,8 @@ Objetivo    : Leia 100 valores inteiros. Apresente então o maior valor lido e a
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
-int main() {
+int main() 
+{
     int maior , i , n , ps;
     for(i=1; i<= 100; i++) {
         scanf("%d", &n );
