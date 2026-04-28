@@ -8,7 +8,8 @@ Objetivo    : Ler 2 valores inteiros X e Y. A seguir, calcular e mostrar a soma 
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
-int main() {
+int main() 
+{
 	int X, Y, soma = 0, maior, menor , i;
 	scanf("%d %d", &X, &Y);
 	if (X < Y) {
