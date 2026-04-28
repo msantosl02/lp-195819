@@ -8,7 +8,7 @@ Objetivo    : Fazer um programa que leia três valores e apresente o maior dos t
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 
-#include "stdio.h"
+#include <stdio.h>
 
 int main()
 {
