@@ -9,7 +9,8 @@ Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
-int main() {
+int main() 
+{
 	int X[100] , i , maior , ps;
 	for(i = 0; i < 100; i++) {
 	    scanf("%d", &X[i]);
