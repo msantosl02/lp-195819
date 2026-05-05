@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Mateus Santos Lucas
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 05/05/2026
+Objetivo    : Ler dois valores A e B e imprimir se B encaixa em A
+Aprendizado : Uso do char, len, strlen, strcmp
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
