@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Mateus Santos Lucas
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1024
+Data        : 08/05/2026
+Objetivo    : Alternar letras do texto para criptografá-lo.
+Aprendizado : Uso de stringlen, while e outros comandos.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
