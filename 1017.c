@@ -8,7 +8,6 @@ Objetivo    : Receber valores e com base neles calcular a quantidade de litros p
 Aprendizado : Uso de %d\n%d
 -------------------------------------------------------------------------- */
 #include <stdio.h>
-#include <stdio.h>
 int main() {
 	int tempo, velocidade, distancia;
 	float litros;
