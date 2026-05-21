@@ -15,7 +15,7 @@ int main() {
 	scanf("%d\n%d", &tempo, &velocidade);
 
 	distancia = velocidade * tempo;
-	litros = distancia/12.0;
+	litros = (float)distancia/12;
 
 	printf("%.3lf\n", litros);
 
