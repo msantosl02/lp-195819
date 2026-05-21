@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1046
 Data        : 21/05/2026
 Objetivo    : Receber valores e com base neles calcular a duração de um jogo.
-Aprendizado : 
+Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 
