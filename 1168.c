@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Mateus Santos Lucas
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1168
+Data        : 22/05/2026
+Objetivo    : Para cada caso de teste, imprima uma linha contendo o número de leds necessárias para montar o valor desejado, seguido da palavra "leds".
+Aprendizado : Uso de string.h
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
