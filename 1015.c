@@ -9,15 +9,16 @@ Aprendizado : Como calcular a distância entre dois pontos.
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <math.h>
-int main() {
-	double x1, y1, x2, y2, distancia;
+int main()
+{
+    float x1, y1, x2, y2, distancia;
+	
+    scanf("%f %f", &x1, &y1);
+    scanf("%f %f", &x2, &y2);
 
-	if (scanf("%lf %lf", &x1, &y1) == 2 && scanf("%lf %lf", &x2, &y2) ==2) {
+    distancia = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 
-		distancia = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+    printf("%.4f\n", distancia);
 
-		printf("%.4lf\n", distancia);
-	}
-
-	return 0;
+    return 0;
 }
