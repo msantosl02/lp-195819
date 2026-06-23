@@ -7,27 +7,28 @@ Data        : 17/04/2026
 Objetivo    : Leia 100 valores inteiros. Apresente então o maior valor lido e a posição dentre os 100 valores lidos.
 Aprendizado : <<<Descrever o que foi aprendido com este exercício>>>
 -------------------------------------------------------------------------- */
-
 #include <stdio.h>
-int main() 
-{
-	int X[100] , i , maior , ps;
-	for(i = 0; i < 100; i++) {
-	    scanf("%d", &X[i]);
-	    
-	    if(i==0){
-	        maior = X[i];
-	        ps = i;
-	    } else {
-	        if(X[i] >= maior){
-	            maior = X[i];
-	            ps = i;
-	        }
-	    }
-	}
+
+int main() {
+    int V[100];
+    int maior, posicao;
+    
+    for (int i = 0; i < 100; i++) {
+        scanf("%d", &V[i]);
+    }
+    
+    maior = V[0];
+    posicao = 1;
+    
+    for (int i = 1; i < 100; i++) {
+        if (V[i] > maior) {
+            maior = V[i];
+            posicao = i + 1;
+        }
+    }
     
     printf("%d\n", maior);
-    printf("%d\n", ps + 1);
+    printf("%d\n", posicao);
     
     return 0;
-}    
+}
