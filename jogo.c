@@ -1,3 +1,9 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Mateus Santos Lucas 
+Linguagem   : C
+Data        : 23/06/2026
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
